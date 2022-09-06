@@ -1,0 +1,4 @@
+name: services-logstash
+runtime: nodejs
+description: Logstash is a server-side data processing pipeline
+
